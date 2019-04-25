@@ -33,7 +33,7 @@ h4 {
 }
 div {
     border: 1px solid black;
-    padding-top: 25px;
-    padding-right: 30px;
-    padding-bottom: 25px;
+    width: 50%;
+    float: right;
+
   }
