@@ -6,3 +6,5 @@ body {
     background-color: darksalmon;
 
 }
+
+p.double {outline-style: double;}
