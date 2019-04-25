@@ -1,8 +1,13 @@
 h1 {
     color: brown;
     font-size: 50px
+  
+    
 
 }
+
+h1 {outline-color: red;}
+h1.double {outline-style: double;}
 
 image {
     text-align: left;
