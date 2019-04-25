@@ -16,6 +16,10 @@ p {
     text-align: right;
 }
 
+p . serif {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h4 {
     text-align: right;
 }
