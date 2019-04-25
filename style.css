@@ -2,6 +2,10 @@ h1 {color: brown;
 
 }
 
+image {
+    text-align: left;
+}
+
 body { 
     background-color: darksalmon;
     color: black;
