@@ -26,7 +26,15 @@ p {
 p .serif {
     font-family: 'Times New Roman', Times, serif;
 }
-
+p {outline-color: red;}
+p.solid {outline-style: solid;}
 h4 {
     text-align: right;
 }
+div {
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
